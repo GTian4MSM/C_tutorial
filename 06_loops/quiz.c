@@ -7,7 +7,7 @@
 int main() {
     // 1. Fill in the loop to print numbers 1 to 5
     int i;
-    for (/* TODO: initialize i; condition; increment */) {
+    for (i=0;i<5;i++/* TODO: initialize i; condition; increment */) {
         printf("%d ", i);
     }
     printf("\n");
